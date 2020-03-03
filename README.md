@@ -2,7 +2,7 @@
 
 ## [karabiner.json](/karabiner.json)
 
-My Karabiner-Elements config for EU-type Mac keyboard with the following features:
+My [Karabiner-Elements](https://pqrs.org/osx/karabiner/) config for EU-type Mac keyboard with the following features:
 
 1. diamond cursor (Alt+jkli to arrows).
 2. extended diamond cursor configuration for easy Enter, Delete, Backspace, Esc, PgUp, PgDown, Home, End.
